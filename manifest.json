@@ -1,0 +1,30 @@
+{
+  "name": "Binance Web3",
+  "short_name": "Binance",
+  "description": "A web3 interface for Binance.",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#0b0e11",
+  "theme_color": "#f3ba2f",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "images/icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "images/icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "screenshots": [
+    {
+      "src": "images/screenshot-mobile.png",
+      "sizes": "1080x1920",
+      "type": "image/png",
+      "form_factor": "narrow"
+    }
+  ]
+}
